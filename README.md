@@ -9,4 +9,4 @@ Changes to the game should be documented here
 Things that need to be done should be updated in github
 
 
-Dropbox link to game: https://www.dropbox.com/s/3nvye0pakxqgc7d/Get%20Started%20with%20Dropbox.pdf?dl=0
+Dropbox link to game: https://www.dropbox.com/sh/11zmbc62zoyul95/AAA8HLUf6W_OMGnyLVerXEK2a?dl=0
